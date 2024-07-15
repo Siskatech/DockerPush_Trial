@@ -5,8 +5,8 @@ import nltk
 import pyodbc
 import warnings
 import re
-warnings.filterwarnings('ignore')
-from flask import Flask, request, jsonify, Response
+# warnings.filterwarnings('ignore')
+# from flask import Flask, request, jsonify, Response
 
 from libraries import utils_preprocess as upp, utils_ngram as ung, utils_perplexity as up, utils_suggestions as suggest
 
