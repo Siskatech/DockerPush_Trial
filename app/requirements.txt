@@ -1,0 +1,6 @@
+Flask
+pandas
+pyodbc
+nltk
+scikit-learn
+matplotlib==3.8.0
